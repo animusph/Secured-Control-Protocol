@@ -17,3 +17,7 @@ Client Address.
 <br/>*Recommended* When you set **SCP** Encryption Key. Use a Key that doesn't have Patterns like 123 or abc .And use Symbols.
 <br/>*No Activity Logs are saved.Go Away Lovely Govs.* XDD
 <br/>Feel Free to contact us at : morad.gill@gmail.com
+#### Compiled With:
+openjdk version "11.0.3" 2019-04-16
+OpenJDK Runtime Environment (build 11.0.3+1-Debian-1)
+OpenJDK 64-Bit Server VM (build 11.0.3+1-Debian-1, mixed mode, sharing)
