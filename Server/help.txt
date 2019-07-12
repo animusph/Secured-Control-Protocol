@@ -2,9 +2,6 @@
 user [username] <- Enter User Credential
 pass [Password] <- Enter Password Credential
 **User Commands Section**
-ping [Host] <- Check if the Host is alive or not
-getip [Host] <- Get the IP of the Host
-ddos [Host] <- Perform a DoS Attack on the Host
 mail <- Retrieve the Mail box of the Authenticated User
 create mail <- Create a new Mail for the Authenticated User
 reset mail <- Delete all Messages from the Mail of the Authenticated Host
@@ -12,5 +9,3 @@ send mail to:[Person]@[Message] <- Send Message to Person
 help <- Show this Help Message
 **Administrator Section**
 createuser [Username:Password:] <- Create a new user with a password
-**GOD MODE Section**
-execute [Command] <- Execute a Command on the Host Server
